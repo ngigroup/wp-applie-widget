@@ -3,7 +3,7 @@
 Plugin Name: WP-Applie-Widget
 Plugin URI: 
 Description: This plugin allows you to display the application ranking of applie.net.
-Version: 0.0.0
+Version: 1.0.1
 Author: smeghead
  */
 $ranking_types = array(

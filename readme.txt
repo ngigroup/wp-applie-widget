@@ -2,8 +2,8 @@
 Contributors: smeghead
 Tags: applie, widget, widgets
 Requires at least: 3.0.0
-Tested up to: 3.0.4
-Stable tag: 1.0.0
+Tested up to: 3.1.2
+Stable tag: 1.0.1
 
 This plugin allows you to display the application ranking of applie.net.
 
@@ -20,5 +20,5 @@ This plugin allows you to display the application ranking of applie.net.
 
 == Changelog ==
 
-= 1.0.0 =
-* 2011-02-21 First release
+= 1.0.1 =
+* 2011-05-13 First release
